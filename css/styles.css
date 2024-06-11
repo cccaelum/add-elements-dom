@@ -1,0 +1,21 @@
+body {
+    padding: 40px;
+    background-color: beige;
+}
+
+h1 {
+    color: #58713b;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#agregar {
+    color: aliceblue;
+    background-color: #58713b;
+    border-radius: 3px;
+    border-color: beige;
+    padding: 5px;
+}
+
+li {
+   color: brown; 
+}
